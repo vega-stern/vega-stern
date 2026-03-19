@@ -16,5 +16,5 @@
   <path fill="none" stroke="#3fa9a6" stroke-opacity="0.15" stroke-width="2" d="M0 480 C 360 400, 540 580, 960 500 S 1560 420, 1920 520"/>
   <path fill="none" stroke="#d4af37" stroke-opacity="0.12" stroke-width="1.5" d="M0 440 C 400 380, 600 520, 1000 460 S 1600 360, 1920 460"/>
   <path fill="#1f3a57" fill-opacity="0.5" d="M0 720 C 480 660, 640 860, 1100 780 C 1460 720, 1680 900, 1920 820 L 1920 1080 L 0 1080 Z"/>
-  <rect width="1920" height="1080" fill="url(#wvTeal)" style="mix-blend-mode: screen;" opacity="0.4"/>
+  <rect width="1920" height="1080" fill="url(#wvTeal)" opacity="0.25"/>
 </svg>
