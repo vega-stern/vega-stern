@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
   <defs>
     <linearGradient id="wvBase" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#152a42"/>
-      <stop offset="100%" stop-color="#1f3a57"/>
+      <stop offset="0%" stop-color="#071a2e"/>
+      <stop offset="100%" stop-color="#0B2A45"/>
     </linearGradient>
     <linearGradient id="wvTeal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3fa9a6" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3fa9a6" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#3fa9a6" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#1F6F7A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1F6F7A" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1F6F7A" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#wvBase)"/>
-  <path fill="#2a4a6f" fill-opacity="0.35" d="M0 520 C 320 460, 480 620, 800 560 C 1120 500, 1280 680, 1920 600 L 1920 1080 L 0 1080 Z"/>
-  <path fill="#3fa9a6" fill-opacity="0.08" d="M0 600 C 400 540, 560 720, 960 640 C 1360 560, 1520 780, 1920 700 L 1920 1080 L 0 1080 Z"/>
-  <path fill="none" stroke="#3fa9a6" stroke-opacity="0.15" stroke-width="2" d="M0 480 C 360 400, 540 580, 960 500 S 1560 420, 1920 520"/>
-  <path fill="none" stroke="#d4af37" stroke-opacity="0.12" stroke-width="1.5" d="M0 440 C 400 380, 600 520, 1000 460 S 1600 360, 1920 460"/>
-  <path fill="#1f3a57" fill-opacity="0.5" d="M0 720 C 480 660, 640 860, 1100 780 C 1460 720, 1680 900, 1920 820 L 1920 1080 L 0 1080 Z"/>
-  <rect width="1920" height="1080" fill="url(#wvTeal)" opacity="0.25"/>
+  <path fill="#1a2332" fill-opacity="0.4" d="M0 520 C 320 460, 480 620, 800 560 C 1120 500, 1280 680, 1920 600 L 1920 1080 L 0 1080 Z"/>
+  <path fill="#1F6F7A" fill-opacity="0.07" d="M0 600 C 400 540, 560 720, 960 640 C 1360 560, 1520 780, 1920 700 L 1920 1080 L 0 1080 Z"/>
+  <path fill="none" stroke="#1F6F7A" stroke-opacity="0.14" stroke-width="2" d="M0 480 C 360 400, 540 580, 960 500 S 1560 420, 1920 520"/>
+  <path fill="none" stroke="#F2C14E" stroke-opacity="0.11" stroke-width="1.5" d="M0 440 C 400 380, 600 520, 1000 460 S 1600 360, 1920 460"/>
+  <path fill="#0B2A45" fill-opacity="0.55" d="M0 720 C 480 660, 640 860, 1100 780 C 1460 720, 1680 900, 1920 820 L 1920 1080 L 0 1080 Z"/>
+  <rect width="1920" height="1080" fill="url(#wvTeal)" opacity="0.22"/>
 </svg>
