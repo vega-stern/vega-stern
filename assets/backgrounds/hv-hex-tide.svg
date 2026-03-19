@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs>
+    <pattern id="hex" width="56" height="100" patternUnits="userSpaceOnUse" patternTransform="scale(2) translate(0 0)">
+      <path d="M28 2 L52 16 L52 44 L28 58 L4 44 L4 16 Z" fill="none" stroke="#3fa9a6" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="hxBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f3a57"/>
+      <stop offset="50%" stop-color="#243d5c"/>
+      <stop offset="100%" stop-color="#152a42"/>
+    </linearGradient>
+    <radialGradient id="hxGlow" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#3fa9a6" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1f3a57" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#hxBg)"/>
+  <rect width="1920" height="1080" fill="url(#hex)"/>
+  <rect width="1920" height="1080" fill="url(#hxGlow)"/>
+  <path fill="none" stroke="#d4af37" stroke-opacity="0.08" stroke-width="1" d="M0 540 L1920 540"/>
+  <path fill="none" stroke="#3fa9a6" stroke-opacity="0.1" stroke-width="2" d="M960 0 L960 1080"/>
+</svg>
